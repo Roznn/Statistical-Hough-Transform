@@ -7,12 +7,11 @@ Matlab code associated with the following publication:
 Please cite this PAMI paper when code used.
 
 ## Getting started 
-Demo is launched by typing 
+Demo is launched by typing in the command window of Matlab:
 
 > RzDDemoPAMI2009 
 
-in the command window of Matlab,
-and the image *losange3.bmp* needs to be placed in the same folder as this *RzDDemoPAMI2009.m* file.
+The image *losange3.bmp* needs to be placed in the same folder as this *RzDDemoPAMI2009.m* file.
 
 
 
