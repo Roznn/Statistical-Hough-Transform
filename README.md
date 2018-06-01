@@ -2,7 +2,7 @@
 
 Matlab code associated with the following publication: 
 
-> Statistical Hough Transform, R. Dahyot, in IEEE transactions on Pattern Analysis and Machine Intelligence, pages 1502-1509, Vol. 31, No. 8, August 2009. [Preprint]{http://www.tara.tcd.ie/handle/2262/31106} [DOI:10.1109/TPAMI.2008.288]{http://dx.doi.org/10.1109/TPAMI.2008.288}
+> Statistical Hough Transform, R. Dahyot, in IEEE transactions on Pattern Analysis and Machine Intelligence, pages 1502-1509, Vol. 31, No. 8, August 2009. [Preprint](http://www.tara.tcd.ie/handle/2262/31106) [DOI:10.1109/TPAMI.2008.288](http://dx.doi.org/10.1109/TPAMI.2008.288)
 
 Please cite this PAMI paper when code used.
 
