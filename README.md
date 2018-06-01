@@ -8,9 +8,11 @@ Please cite this PAMI paper when code used.
 
 ## Getting started 
 Demo is launched by typing 
+
 > RzDDemoPAMI2009 
+
 in the command window of Matlab,
-and the image losange3.bmp needs to be placed in the same folder as this RzDDemoPAMI2009.m file.
+and the image *losange3.bmp* needs to be placed in the same folder as this *RzDDemoPAMI2009.m* file.
 
 
 
