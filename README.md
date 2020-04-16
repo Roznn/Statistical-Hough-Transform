@@ -29,14 +29,15 @@ Time reported in the Command Window are just indicative.
 
 <img width="200" alt="figure 1" src="images/fig1.png"> 
 <img width="200" alt="figure 2" src="images/fig2.png"> 
+<img width="200" alt="figure 3" src="images/fig3.png"> 
+<img width="200" alt="figure 4" src="images/fig4.png"> 
+<img width="200" alt="figure 5" src="images/fig5.png"> 
+<img width="200" alt="figure 6" src="images/fig6.png"> 
+<img width="200" alt="figure 7" src="images/fig7.png"> 
+<img width="200" alt="figure 8" src="images/fig8.png"> 
+<img width="200" alt="figure 9" src="images/fig9.png"> 
 
-![Figure 3](/images/fig3.png)
-![Figure 4](/images/fig4.png)
-![Figure 5](/images/fig5.png)
-![Figure 6](/images/fig6.png)
-![Figure 7](/images/fig7.png)
-![Figure 8](/images/fig8.png)
-![Figure 9](/images/fig9.png)
+
 ## Author: 
 
 [Rozenn Dahyot](https://www.scss.tcd.ie/Rozenn.Dahyot/)
