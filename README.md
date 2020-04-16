@@ -27,8 +27,8 @@ The image *losange3.bmp* needs to be placed in the same folder as this *RzDDemoP
 
 Time reported in the Command Window are just indicative.
 
-![Figure 1](/images/fig1.png)
-![Figure 2](/images/fig2.png)
+![Figure 1](/images/fig1.png =250x)
+![Figure 2](/images/fig2.png =250x)
 ![Figure 3](/images/fig3.png)
 ![Figure 4](/images/fig4.png)
 ![Figure 5](/images/fig5.png)
