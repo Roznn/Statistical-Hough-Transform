@@ -3,7 +3,8 @@
 Matlab/Octave code associated with the following publication: 
 
 ```
-[1]  Statistical Hough Transform, R. Dahyot, in IEEE transactions on Pattern Analysis and Machine Intelligence, pages 1502-1509, Vol. 31, No. 8, August 2009. [DOI:10.1109/TPAMI.2008.288](http://dx.doi.org/10.1109/TPAMI.2008.288)
+[1]  Statistical Hough Transform, R. Dahyot, 
+in IEEE transactions on Pattern Analysis and Machine Intelligence, pages 1502-1509, Vol. 31, No. 8, August 2009. [DOI:10.1109/TPAMI.2008.288](http://dx.doi.org/10.1109/TPAMI.2008.288)
 ```
 
 See [Preprint](http://www.tara.tcd.ie/handle/2262/31106)  or [DOI:10.1109/TPAMI.2008.288](http://dx.doi.org/10.1109/TPAMI.2008.288)
