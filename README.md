@@ -1,6 +1,6 @@
 # PAMI-2009: Statistical Hough Transform
 
-Matlab/Octave code associated with the following publication: 
+This package contains  Matlab and Octave code associated with the following publication: 
 
 ```
 [1]  Statistical Hough Transform, R. Dahyot, 
