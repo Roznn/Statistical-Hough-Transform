@@ -3,7 +3,8 @@
 This package contains  Matlab and Octave code associated with the following publication: 
 
 ```
-[1]  Statistical Hough Transform, R. Dahyot, 
+[1]  Statistical Hough Transform, 
+R. Dahyot, 
 in IEEE transactions on Pattern Analysis and Machine Intelligence, pages 1502-1509, Vol. 31, No. 8, August 2009. 
 DOI:10.1109/TPAMI.2008.288
 ```
