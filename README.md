@@ -1,4 +1,4 @@
-# Statistical Hough Transform
+# PAMI-2009: Statistical Hough Transform
 
 Matlab/Octave code associated with the following publication: 
 
