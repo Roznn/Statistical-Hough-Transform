@@ -1,5 +1,5 @@
-% Author: Rozenn Dahyot, email Rozenn.Dahyot@tcd.ie
-% Reference PAMI2009: Statistical Hough Transform, R. Dahyot, in IEEE transactions on Pattern Analysis and Machine Intelligence, pages 1502-1509, Vol. 31, No. 8, August 2009.
+% Author: Rozenn Dahyot
+% Reference PAMI2009: Statistical Hough Transform, R. Dahyot, in IEEE transactions on Pattern Analysis and Machine Intelligence, pages 1502-1509, Vol. 31, No. 8, August 2009. DOI:10.1109/TPAMI.2008.288
 % Please cite this PAMI paper if code used.
 % Demo is launched by typing RzDDemoPAMI2009 in command window of Matlab,
 % the image losange3.bmp needs to be placed in the same folder
@@ -55,21 +55,21 @@ spaceRho=[-maxRho:1:maxRho];
 
 % equation (7) PAMI 2009
 tic
-'Equation (7) PAMI 2009: This is slow (about 36s)'
+'Equation (7) PAMI (DOI:10.1109/TPAMI.2008.288): This is slow (2009, about 36s)'
 sht1=RzDHoughTransform(theta,vartheta,spaceTheta,rho,varrho,spaceRho,6);
 figure;surf(spaceRho,spaceTheta,sht1),colormap(pink), shading interp, title('SHT1: PAMI eq. (7) using observations ( \Theta_i,\rho_i )')
 figure;imagesc(iradon(sht1',-spaceTheta*180/pi,max(size(N)),'nearest','Hann')), colormap(gray),title('backprojection SHT1 with inverse Radon transform')
 toc
 
 % equation (11) PAMI 2009
-'Equation (11) PAMI 2009: This is very slow (about 1100s)'
+'Equation (11) PAMI (DOI:10.1109/TPAMI.2008.288): This is very slow (2009, about 1100s)'
 tic
 sht2=RzDSHTXYT(theta,vartheta,spaceTheta,spaceRho,hx,hy);
 figure;surf(spaceRho,spaceTheta,sht2),colormap(pink), shading interp, title('SHT2: PAMI eq. (11) using observations ( x_i,y_i, \Theta_i)')
 figure;imagesc(iradon(sht2',-spaceTheta*180/pi,max(size(N)),'nearest','Hann')), colormap(gray),title('backprojection SHT2 with inverse Radon transform')
 toc
 % equation (15) PAMI 2009 
-'Equation (15) PAMI 2009 : This is  slow (about 30s)'
+'Equation (15) (DOI:10.1109/TPAMI.2008.288): This is  slow (2009, about 30s)'
 tic
 figure;imagesc(N>3*sigma), colormap(gray), title('Edge pixels')
 II=find(N>3*sigma); % selected edge points
